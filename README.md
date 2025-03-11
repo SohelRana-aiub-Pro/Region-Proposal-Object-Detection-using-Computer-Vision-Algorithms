@@ -11,4 +11,3 @@
 
 
 ![Example Task](https://github.com/SohelRana-aiub-Pro/Region-Proposal-Object-Detection-using-Computer-Vision-Algorithms/assets/133596903/7e2aff07-c41a-4e08-a2ab-87f993960363)
--> Example Codes & Prototypes;
